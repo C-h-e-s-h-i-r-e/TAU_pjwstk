@@ -1,0 +1,1930 @@
+1615906785565	geckodriver	INFO	Listening on 127.0.0.1:47529
+1615906785568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqXvxy2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615906790537	Marionette	INFO	Listening on port 43281
+1615906790631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615906794729	Marionette	INFO	Stopped listening on port 43281
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616061558735	geckodriver	INFO	Listening on 127.0.0.1:33777
+1616061559670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler2qVp5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616061563825	Marionette	INFO	Listening on port 33627
+1616061563946	Marionette	WARN	TLS certificate errors will be ignored for this session
+Invalid port. Exiting...
+1616061616780	geckodriver	INFO	Listening on 127.0.0.1:55911
+1616061616785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileblJ8b9"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+1616061622136	Marionette	INFO	Stopped listening on port 33627
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616061630656	Marionette	INFO	Listening on port 33509
+1616061630717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616061663817	Marionette	INFO	Stopped listening on port 33509
+1616061904344	geckodriver	INFO	Listening on 127.0.0.1:50097
+1616061904999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4vYeF6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616061926525	Marionette	INFO	Listening on port 40905
+1616061926548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616061961506	geckodriver	INFO	Listening on 127.0.0.1:56261
+1616061961511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebTbcYn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616061965088	Marionette	INFO	Listening on port 40673
+1616061965134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616061973001	Marionette	INFO	Stopped listening on port 40673
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616061976003	Marionette	INFO	Stopped listening on port 40905
+1616063077788	geckodriver	INFO	Listening on 127.0.0.1:58213
+1616063077791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTNbVg3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063080066	Marionette	INFO	Listening on port 46193
+1616063080117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616063214825	geckodriver	INFO	Listening on 127.0.0.1:38617
+1616063214828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFH60sU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063220275	Marionette	INFO	Listening on port 34773
+1616063220356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616063295978	geckodriver	INFO	Listening on 127.0.0.1:53581
+1616063295981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2jItYo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063298501	Marionette	INFO	Listening on port 40719
+1616063298603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2661: Error: Can't select tool, wait for toolbox 'ready' event
+1616063388527	Marionette	INFO	Stopped listening on port 46193
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616063389354	Marionette	INFO	Stopped listening on port 34773
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616063390537	Marionette	INFO	Stopped listening on port 40719
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616063393444	geckodriver	INFO	Listening on 127.0.0.1:48679
+1616063393448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3idkx5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063399826	Marionette	INFO	Listening on port 38575
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616063399890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+1616063437802	Marionette	INFO	Stopped listening on port 38575
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616063444081	geckodriver	INFO	Listening on 127.0.0.1:41949
+1616063444084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqb4QEw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063448211	Marionette	INFO	Listening on port 35467
+1616063448310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet669, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet670, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet671, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet672, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet673, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet674, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.error: (new TypeError("this._toolbox is null", "resource://devtools/client/inspector/inspector.js", 601))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+console.error: (new TypeError("this.inspector is null", "resource://devtools/client/inspector/layout/layout.js", 126))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 601: TypeError: this._toolbox is null
+1616063573670	Marionette	INFO	Stopped listening on port 35467
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616064917347	geckodriver	INFO	Listening on 127.0.0.1:53645
+1616064917351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9fagor"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064924977	Marionette	INFO	Listening on port 38851
+1616064925083	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1616064983371	geckodriver	INFO	Listening on 127.0.0.1:37379
+1616064983444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee3GW7h"
+1616064986425	Marionette	INFO	Stopped listening on port 38851
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064989275	Marionette	INFO	Listening on port 34963
+1616064989371	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/customhighlighter82, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nscheduleAutoHideHighlighterType/timer<@resource://devtools/client/inspector/shared/highlighters-overlay.js:605:18\nnotify@resource://gre/modules/Timer.jsm:62:17\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1681:21\nCanCloseWindow@chrome://browser/content/browser.js:7761:36\nWindowIsClosing@chrome://browser/content/browser.js:7778:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3013:7\noncommand@chrome://browser/content/browser.xhtml:1:1\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.error: "Tried to send a 'frameUpdate' event on an already destroyed actor 'frameTarget'"
+JavaScript error: https://www.wp.pl/NDE4MDAxYSUkVjt3bgNsMGcObycxEBE3MVBvaGMnbH5naxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSGx4nERsaaxIbHicRGxprEhseJxEbGmsSG2NUbDFnDm9rNggkNyldL3JuDz4uNlgkJmwLKSU1Gic3YwU, line 1: NS_ERROR_NOT_INITIALIZED: 
+1616065032855	geckodriver	INFO	Listening on 127.0.0.1:53705
+1616065032859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefE9ZVs"
+1616065033261	Marionette	INFO	Stopped listening on port 34963
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065036669	Marionette	INFO	Listening on port 38723
+1616065036783	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'domnode's method 'getAllSelectors'" "node.ownerGlobal is null"
+console.error: "getSelectorParent@resource://devtools/shared/inspector/css-logic.js:663:3\nfindAllCssSelectors@resource://devtools/shared/inspector/css-logic.js:689:12\ngetAllSelectors@resource://devtools/server/actors/inspector/node.js:511:12\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node.ownerGlobal is null from: server0.conn0.child3/domnode470 (resource://devtools/shared/inspector/css-logic.js:663:3)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error writing request: getGrids"
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://www.ecanarys.com/Blogs/ArticleID/170/Examples-of-Selenium-Webdriver-Scripts, line 2: Script terminated by timeout at:
+onload@https://www.ecanarys.com/Blogs/ArticleID/170/Examples-of-Selenium-Webdriver-Scripts:2:1
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616065445022	geckodriver	INFO	Listening on 127.0.0.1:58559
+1616065445096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6CY0g3"
+1616065449152	Marionette	INFO	Stopped listening on port 38723
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065452486	Marionette	INFO	Listening on port 33891
+1616065452531	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://phptravels.org"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://phptravels.org"
+1616065522811	geckodriver	INFO	Listening on 127.0.0.1:57121
+1616065522814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXP5wNn"
+1616065523468	Marionette	INFO	Stopped listening on port 33891
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065525448	Marionette	INFO	Listening on port 39465
+1616065525546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616065748010	geckodriver	INFO	Listening on 127.0.0.1:45453
+1616065748013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqg6VHn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065751758	Marionette	INFO	Listening on port 41205
+1616065751838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616065791596	geckodriver	INFO	Listening on 127.0.0.1:41487
+1616065791600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5mJpxY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065795193	Marionette	INFO	Listening on port 43099
+1616065795224	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://phptravels.org"
+1616065890876	Marionette	INFO	Stopped listening on port 41205
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616065892312	Marionette	INFO	Stopped listening on port 39465
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://phptravels.org"
+1616065965444	Marionette	INFO	Stopped listening on port 43099
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616066377792	geckodriver	INFO	Listening on 127.0.0.1:39309
+1616066377796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehecApg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066383272	Marionette	INFO	Listening on port 34761
+1616066383324	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1616066433569	geckodriver	INFO	Listening on 127.0.0.1:44899
+1616066433572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFWxOsg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066436715	Marionette	INFO	Listening on port 44817
+1616066436793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616066510734	geckodriver	INFO	Listening on 127.0.0.1:50243
+1616066510738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeQRUdk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066515389	Marionette	INFO	Listening on port 46879
+1616066515481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616066546815	Marionette	INFO	Stopped listening on port 34761
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616066547864	Marionette	INFO	Stopped listening on port 44817
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616066585601	Marionette	INFO	Stopped listening on port 46879
+1616066586153	geckodriver	INFO	Listening on 127.0.0.1:45629
+1616066586156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWM9PY7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066590684	Marionette	INFO	Listening on port 40833
+1616066590782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic02.ztat.net/cst/mini-cart-k8s/15bce42fcfe377c4498a/miniCart.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic02.ztat.net/rnd/ng/smart-banner-assets/f204120c22186c5ffd36.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic02.ztat.net/rnd/ng/customer_gender-split-view/index-13daecac698c93ab67ed.js"
+http://requirejs.org/docs/errors.html#scripterror
+1616066656506	geckodriver	INFO	Listening on 127.0.0.1:59317
+1616066656510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSVBZ1b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066663531	Marionette	INFO	Listening on port 44839
+1616066663640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic02.ztat.net/nvg/z-header-fragment/12391d5204f7cb4a40a4-header.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://mosaic02.ztat.net/nvg/z-header-fragment/67e5da594e2f300801bf-0.js)
+1616066682502	Marionette	INFO	Stopped listening on port 40833
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616066699011	geckodriver	INFO	Listening on 127.0.0.1:60705
+1616066699014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewv2tQQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066708971	Marionette	INFO	Listening on port 45339
+1616066709054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2661: Error: Can't select tool, wait for toolbox 'ready' event
+1616066782291	geckodriver	INFO	Listening on 127.0.0.1:49781
+1616066782294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKFgVZI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066790562	Marionette	INFO	Listening on port 43945
+1616066790638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616067037757	Marionette	INFO	Stopped listening on port 44839
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616067037767	Marionette	INFO	Stopped listening on port 45339
+1616067037780	Marionette	INFO	Stopped listening on port 43945
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616067261336	geckodriver	INFO	Listening on 127.0.0.1:44979
+1616067261339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7c73Rw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067266224	Marionette	INFO	Listening on port 43399
+1616067266268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic02.ztat.net/nvg/z-header-fragment/12391d5204f7cb4a40a4-header.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://mosaic02.ztat.net/nvg/z-header-fragment/67e5da594e2f300801bf-0.js)
+1616067472516	geckodriver	INFO	Listening on 127.0.0.1:48253
+1616067472519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYaq4Bl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067475431	Marionette	INFO	Listening on port 39601
+1616067475544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616067643734	geckodriver	INFO	Listening on 127.0.0.1:42921
+1616067643765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep63OO4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067648043	Marionette	INFO	Listening on port 35045
+1616067648090	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616067659954	Marionette	INFO	Stopped listening on port 39601
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616067665598	Marionette	INFO	Stopped listening on port 43399
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616067665665	Marionette	INFO	Stopped listening on port 35045
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616067669839	geckodriver	INFO	Listening on 127.0.0.1:46655
+1616067669845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW6Ayzc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067672141	Marionette	INFO	Listening on port 46811
+1616067672170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic02.ztat.net/nvg/z-header-fragment/12391d5204f7cb4a40a4-header.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://mosaic02.ztat.net/nvg/z-header-fragment/67e5da594e2f300801bf-0.js)
+1616067741453	geckodriver	INFO	Listening on 127.0.0.1:57377
+1616067741456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletjKjpJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067743672	Marionette	INFO	Listening on port 44641
+1616067743784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616067768373	geckodriver	INFO	Listening on 127.0.0.1:36447
+1616067768376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletnWtb6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067770515	Marionette	INFO	Listening on port 45397
+1616067770614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616067809209	geckodriver	INFO	Listening on 127.0.0.1:58941
+1616067809212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefLLYNN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067814081	Marionette	INFO	Listening on port 35295
+1616067814139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic02.ztat.net/nvg/z-header-fragment/12391d5204f7cb4a40a4-header.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://mosaic02.ztat.net/nvg/z-header-fragment/67e5da594e2f300801bf-0.js)
+1616067834110	Marionette	INFO	Stopped listening on port 46811
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616067834191	Marionette	INFO	Stopped listening on port 44641
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616067835441	Marionette	INFO	Stopped listening on port 45397
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616067836898	Marionette	INFO	Stopped listening on port 35295
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616069139998	geckodriver	INFO	Listening on 127.0.0.1:37267
+1616069140002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesbrqb7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616069142215	Marionette	INFO	Listening on port 38559
+1616069142320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616069142332	Marionette	INFO	Stopped listening on port 38559
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 969: TypeError: this._storage is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+1616069153683	geckodriver	INFO	Listening on 127.0.0.1:50471
+1616069153687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGubltE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616069155904	Marionette	INFO	Listening on port 35769
+1616069156005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616069156016	Marionette	INFO	Stopped listening on port 35769
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 969: TypeError: this._storage is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1616069172369	geckodriver	INFO	Listening on 127.0.0.1:59119
+1616069172373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMmpqOW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616069176457	Marionette	INFO	Listening on port 37505
+1616069176498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616069180024	Marionette	INFO	Stopped listening on port 37505
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616069194861	geckodriver	INFO	Listening on 127.0.0.1:55249
+1616069194875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAarrbT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616069199034	Marionette	INFO	Listening on port 36265
+1616069199101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616069202913	Marionette	INFO	Stopped listening on port 36265
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 969: TypeError: this._storage is null
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: resource:///modules/EveryWindow.jsm, line 37: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+ExceptionHandler::GenerateDump cloned child 128600
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1616069690215	geckodriver	INFO	Listening on 127.0.0.1:52465
+1616069690218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT6Dhmx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616069693756	Marionette	INFO	Listening on port 41221
+1616069693841	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1616069739764	Marionette	INFO	Stopped listening on port 41221
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616069747218	geckodriver	INFO	Listening on 127.0.0.1:54559
+1616069747221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFbriKZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616069749955	Marionette	INFO	Listening on port 41103
+1616069750047	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1616069809045	Marionette	INFO	Stopped listening on port 41103
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616069809190	geckodriver	INFO	Listening on 127.0.0.1:34437
+1616069809193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep0PWjZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616069812397	Marionette	INFO	Listening on port 40147
+1616069812438	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616070291624	geckodriver	INFO	Listening on 127.0.0.1:56447
+1616070291658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefrOSiy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070295646	Marionette	INFO	Listening on port 43573
+1616070295693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic01.ztat.net/trc/2021.03.05-b409f63-master-10/live/tff.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic02.ztat.net/rnd/ng/customer_gender-split-view/index-02e4e69353c37d634297.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic03.ztat.net/cuo/newsletter-banner-fragment/210305T1547H6c47d59.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic02.ztat.net/rnd/ng/re-commons-chunk-8b958df6-69db-4905-8e5f-d2c93717123c/index-ce7a01ef83c22bca6b5c.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic01.ztat.net/nvg/z-footer-fragment/ccefeeb8d21d69b718e6-footer.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic03.ztat.net/seo/glados/a32a4938dcc8fea41623-main.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic02.ztat.net/rnd/ng/smart-banner-assets/f204120c22186c5ffd36.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic02.ztat.net/lny/reef/labelModal.ed6a11bdebd6ab89e3ac.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic02.ztat.net/cst/mini-cart-k8s/15bce42fcfe377c4498a/miniCart.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic01.ztat.net/base-assets/5-5-0/assets/bundle.js", needed by: z-shop-js-env, react-dom, react, classnames, tranzlate, z-shop-event-bus, z-shop-ui, safe-fetch
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://mosaic01.ztat.net/base-assets/require-2.1.22.min.js, line 8: Error: Script error for "https://mosaic02.ztat.net/rnd/ng/runtime-e80cf9a613b9cc3d7752.js"
+http://requirejs.org/docs/errors.html#scripterror
+1616070308018	Marionette	INFO	Stopped listening on port 40147
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616070308263	Marionette	INFO	Stopped listening on port 43573
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616070314204	geckodriver	INFO	Listening on 127.0.0.1:53547
+1616070314207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3TOQnf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070317669	Marionette	INFO	Listening on port 38137
+1616070317730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/inspector/walker.js, line 470: TypeError: this._nodeActorsMap is null
+1616070497035	geckodriver	INFO	Listening on 127.0.0.1:48237
+1616070497039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefgeOAf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070499453	Marionette	INFO	Listening on port 38853
+1616070499559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616070554671	Marionette	INFO	Stopped listening on port 38137
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1616070557885	geckodriver	INFO	Listening on 127.0.0.1:59883
+1616070557963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehrwT7v"
+1616070558127	Marionette	INFO	Stopped listening on port 38853
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070561662	Marionette	INFO	Listening on port 42353
+1616070561691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616070595808	geckodriver	INFO	Listening on 127.0.0.1:59219
+1616070595812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0wszEl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070599802	Marionette	INFO	Listening on port 43905
+1616070599845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616070676829	Marionette	INFO	Stopped listening on port 42353
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616070726304	geckodriver	INFO	Listening on 127.0.0.1:33205
+1616070726307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletruEcf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070728666	Marionette	INFO	Listening on port 34851
+1616070728726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616070750182	Marionette	INFO	Stopped listening on port 43905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616070753568	geckodriver	INFO	Listening on 127.0.0.1:46069
+1616070753614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep3CQX4"
+1616070754656	Marionette	INFO	Stopped listening on port 34851
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070769419	Marionette	INFO	Listening on port 39541
+1616070769473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616070798871	geckodriver	INFO	Listening on 127.0.0.1:41725
+1616070798875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezA1qEN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070806692	Marionette	INFO	Listening on port 46017
+1616070806720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616070818421	Marionette	INFO	Stopped listening on port 39541
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616070819494	Marionette	INFO	Stopped listening on port 46017
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616070823983	geckodriver	INFO	Listening on 127.0.0.1:47529
+1616070823987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiKAOuW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070831108	Marionette	INFO	Listening on port 34753
+1616070831220	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1002:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1002:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 361))
+1616070925018	geckodriver	INFO	Listening on 127.0.0.1:58995
+1616070925021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTcllKm"
+1616070928840	Marionette	INFO	Stopped listening on port 34753
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616070933719	geckodriver	INFO	Listening on 127.0.0.1:49451
+1616070933722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVlhxx2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616070960122	Marionette	INFO	Listening on port 41995
+1616070960208	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1616070996381	geckodriver	INFO	Listening on 127.0.0.1:46091
+1616070996384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecqFpsF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616070998900	Marionette	INFO	Listening on port 36163
+1616070999005	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+1616071083231	geckodriver	INFO	Listening on 127.0.0.1:36033
+1616071083235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTSc1Ab"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071092760	Marionette	INFO	Listening on port 44583
+1616071092874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616071122147	geckodriver	INFO	Listening on 127.0.0.1:53617
+1616071122162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXD6gjF"
+1616071124029	Marionette	INFO	Stopped listening on port 41995
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071124079	Marionette	INFO	Stopped listening on port 36163
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071124162	Marionette	INFO	Stopped listening on port 44583
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071126239	Marionette	INFO	Listening on port 40791
+1616071126298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616071189402	geckodriver	INFO	Listening on 127.0.0.1:36707
+1616071189406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler8GVFs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071205085	Marionette	INFO	Listening on port 38499
+1616071205162	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616071526007	geckodriver	INFO	Listening on 127.0.0.1:50945
+1616071526010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6AXNtr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071530987	Marionette	INFO	Listening on port 42627
+1616071531046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic02.ztat.net/nvg/z-header-fragment/12391d5204f7cb4a40a4-header.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://mosaic02.ztat.net/nvg/z-header-fragment/67e5da594e2f300801bf-0.js)
+1616071536809	Marionette	INFO	Stopped listening on port 42627
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071560938	geckodriver	INFO	Listening on 127.0.0.1:54207
+1616071560942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeKQZVu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071566212	Marionette	INFO	Listening on port 33563
+1616071566271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic02.ztat.net/nvg/z-header-fragment/12391d5204f7cb4a40a4-header.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://mosaic02.ztat.net/nvg/z-header-fragment/67e5da594e2f300801bf-0.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+1616071585589	Marionette	INFO	Stopped listening on port 33563
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616071665386	Marionette	INFO	Stopped listening on port 40791
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071666289	Marionette	INFO	Stopped listening on port 38499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071689582	geckodriver	INFO	Listening on 127.0.0.1:47751
+1616071689586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM8kHXC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071712324	Marionette	INFO	Listening on port 40621
+1616071712362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616071717394	Marionette	INFO	Stopped listening on port 40621
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071721684	geckodriver	INFO	Listening on 127.0.0.1:47327
+1616071721687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEv6iQu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071724257	Marionette	INFO	Listening on port 39403
+1616071724315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616071726721	Marionette	INFO	Stopped listening on port 39403
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071727930	geckodriver	INFO	Listening on 127.0.0.1:36223
+1616071727939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqhdBX6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071730555	Marionette	INFO	Listening on port 46235
+1616071730683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616071734897	Marionette	INFO	Stopped listening on port 46235
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T3W9FX&l=dataLayer, line 3402: uncaught exception: [object Object]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071947738	geckodriver	INFO	Listening on 127.0.0.1:60821
+1616071947741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKlMzDO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071950047	Marionette	INFO	Listening on port 36725
+1616071950159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616071955392	Marionette	INFO	Stopped listening on port 36725
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071956326	geckodriver	INFO	Listening on 127.0.0.1:40737
+1616071956335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebz8Wyx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071958657	Marionette	INFO	Listening on port 35801
+1616071958756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616071961212	Marionette	INFO	Stopped listening on port 35801
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616071961894	geckodriver	INFO	Listening on 127.0.0.1:44473
+1616071961900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX4djOT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616071964226	Marionette	INFO	Listening on port 38873
+1616071964328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic02.ztat.net/nvg/z-header-fragment/12391d5204f7cb4a40a4-header.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://mosaic02.ztat.net/nvg/z-header-fragment/67e5da594e2f300801bf-0.js)
+1616071968648	Marionette	INFO	Stopped listening on port 38873
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T3W9FX&l=dataLayer, line 3402: uncaught exception: [object Object]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072119701	geckodriver	INFO	Listening on 127.0.0.1:57407
+1616072119705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3TeTJ2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072122620	Marionette	INFO	Listening on port 39413
+1616072122736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072127666	Marionette	INFO	Stopped listening on port 39413
+1616072128263	geckodriver	INFO	Listening on 127.0.0.1:40939
+1616072128270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHfUwsR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072130751	Marionette	INFO	Listening on port 34907
+1616072130792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072133352	Marionette	INFO	Stopped listening on port 34907
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072134147	geckodriver	INFO	Listening on 127.0.0.1:33833
+1616072134156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejdKet9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072136467	Marionette	INFO	Listening on port 41503
+1616072136576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072151122	Marionette	INFO	Stopped listening on port 41503
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072245667	geckodriver	INFO	Listening on 127.0.0.1:56561
+1616072245670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileywXxDl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072247864	Marionette	INFO	Listening on port 42431
+1616072247891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072253580	Marionette	INFO	Stopped listening on port 42431
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072254059	geckodriver	INFO	Listening on 127.0.0.1:56145
+1616072254062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee9JG1j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072256448	Marionette	INFO	Listening on port 34431
+1616072256485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072259012	Marionette	INFO	Stopped listening on port 34431
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072259706	geckodriver	INFO	Listening on 127.0.0.1:54979
+1616072259710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU9TqS5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072261930	Marionette	INFO	Listening on port 34293
+1616072262030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072265790	Marionette	INFO	Stopped listening on port 34293
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072300764	geckodriver	INFO	Listening on 127.0.0.1:45957
+1616072300768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMRvBzk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072303116	Marionette	INFO	Listening on port 38897
+1616072303191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://mosaic02.ztat.net/nvg/cognac/cbbf70ce715598cee822-6.js)
+1616072307880	Marionette	INFO	Stopped listening on port 38897
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00BF,name=PContent::Msg_StartVisitedQueries) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072313617	geckodriver	INFO	Listening on 127.0.0.1:35793
+1616072313627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilempYisa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072315949	Marionette	INFO	Listening on port 35995
+1616072316047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072318864	Marionette	INFO	Stopped listening on port 35995
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072319650	geckodriver	INFO	Listening on 127.0.0.1:49277
+1616072319652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexRbgC3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072321905	Marionette	INFO	Listening on port 36617
+1616072321972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072325933	Marionette	INFO	Stopped listening on port 36617
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072420960	geckodriver	INFO	Listening on 127.0.0.1:41249
+1616072420963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB5NqJp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072423152	Marionette	INFO	Listening on port 44545
+1616072423184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072428406	Marionette	INFO	Stopped listening on port 44545
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072428987	geckodriver	INFO	Listening on 127.0.0.1:44225
+1616072428991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ahnmn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072431266	Marionette	INFO	Listening on port 35195
+1616072431310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072433874	Marionette	INFO	Stopped listening on port 35195
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616072434785	geckodriver	INFO	Listening on 127.0.0.1:41111
+1616072434794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMBitku"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616072437262	Marionette	INFO	Listening on port 41801
+1616072437317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616072441284	Marionette	INFO	Stopped listening on port 41801
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616075581744	geckodriver	INFO	Listening on 127.0.0.1:32873
+1616075582745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAQzYxK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616075606137	Marionette	INFO	Listening on port 33979
+1616075606420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616075618829	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616075618841	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616075621122	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: https://kobieta.interia.pl/horoskopy/, line 75: ReferenceError: osdlfm is not defined
+JavaScript error: https://kobieta.interia.pl/horoskopy/, line 75: ReferenceError: osdlfm is not defined
+JavaScript error: https://kobieta.interia.pl/horoskopy/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://kobieta.interia.pl/horoskopy/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://kobieta.interia.pl/horoskopy/, line 75: ReferenceError: osdlfm is not defined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616075724375	Marionette	INFO	Stopped listening on port 33979
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616075725487	geckodriver	INFO	Listening on 127.0.0.1:35319
+1616075725491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Yhgjh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616075729787	Marionette	INFO	Listening on port 41439
+1616075729820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616075763799	geckodriver	INFO	Listening on 127.0.0.1:35701
+1616075763802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuBcqJF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616075766186	Marionette	INFO	Listening on port 39539
+1616075766226	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+SourceActor threw an exception: Error: Failed to fetch https://interia.api.dmp.nsaudience.pl/frontend/api/bootstrapScript.js?inlined&cookie&doSale&sourceId=interiaNew&url=kobieta.interia.pl/horoskopy. Code 2152398919.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://interia.api.dmp.nsaudience.pl/frontend/api/bootstrapScript.js?inlined&cookie&doSale&sourceId=interiaNew&url=kobieta.interia.pl/horoskopy. Code 2152398919.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://interia.api.dmp.nsaudience.pl/frontend/api/bootstrapScript.js?inlined&cookie&doSale&sourceId=interiaNew&url=kobieta.interia.pl/horoskopy. Code 2152398919.
+1616075837600	Marionette	INFO	Stopped listening on port 41439
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616075837944	Marionette	INFO	Stopped listening on port 39539
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616075839339	geckodriver	INFO	Listening on 127.0.0.1:47797
+1616075839343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7NWpP5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616075841812	Marionette	INFO	Listening on port 38499
+1616075841863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616075848488	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616075861729	geckodriver	INFO	Listening on 127.0.0.1:35939
+1616075861733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5zUr9E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616075864882	Marionette	INFO	Listening on port 35701
+1616075864956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616075872956	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616075892184	Marionette	INFO	Stopped listening on port 35701
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616075960565	geckodriver	INFO	Listening on 127.0.0.1:56155
+1616075960569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAqVC2n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616075963521	Marionette	INFO	Listening on port 36765
+1616075963595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616075968920	Marionette	INFO	Stopped listening on port 38499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616075988925	Marionette	INFO	Stopped listening on port 36765
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616075990066	geckodriver	INFO	Listening on 127.0.0.1:34667
+1616075990069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6JiyMK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616075992386	Marionette	INFO	Listening on port 34705
+1616075992505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.iplsc.com/inpl.uanc/1.3.4/29.inpl.uanc.js, line 8: ReferenceError: UANC is not defined
+1616076005244	Marionette	INFO	Stopped listening on port 34705
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616076016782	geckodriver	INFO	Listening on 127.0.0.1:57697
+1616076016785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePJgXPC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616076018979	Marionette	INFO	Listening on port 34443
+1616076019009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616076031268	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616076034330	Marionette	INFO	Stopped listening on port 34443
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616076447137	geckodriver	INFO	Listening on 127.0.0.1:53975
+1616076447140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileob2W6n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616076449516	Marionette	INFO	Listening on port 34685
+1616076449562	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+1616076454012	Marionette	INFO	Stopped listening on port 34685
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616076457490	geckodriver	INFO	Listening on 127.0.0.1:36961
+1616076457493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR79J02"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616076460787	Marionette	INFO	Listening on port 44371
+1616076460830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616076469945	Marionette	INFO	Stopped listening on port 44371
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616076558176	geckodriver	INFO	Listening on 127.0.0.1:60027
+1616076558180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5X2K2K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616076560544	Marionette	INFO	Listening on port 44887
+1616076560600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616076567953	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616076580676	Marionette	INFO	Stopped listening on port 44887
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616076580699	geckodriver	INFO	Listening on 127.0.0.1:55705
+1616076580703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSccvrw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616076583154	Marionette	INFO	Listening on port 44297
+1616076583222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616076588278	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616076613048	Marionette	INFO	Stopped listening on port 44297
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616076617034	geckodriver	INFO	Listening on 127.0.0.1:51117
+1616076617038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezhnf3p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616076619687	Marionette	INFO	Listening on port 43907
+1616076619763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616076631809	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1616076682403	geckodriver	INFO	Listening on 127.0.0.1:58799
+1616076682407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesnYYEp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616076684755	Marionette	INFO	Listening on port 44601
+1616076684836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616076694722	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616076697670	Marionette	INFO	Stopped listening on port 44601
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616077060357	geckodriver	INFO	Listening on 127.0.0.1:50209
+1616077060400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMYkvrl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616077082740	Marionette	INFO	Listening on port 44475
+1616077082763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077099165	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616077126340	Marionette	INFO	Stopped listening on port 43907
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077126406	Marionette	INFO	Stopped listening on port 44475
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077132530	geckodriver	INFO	Listening on 127.0.0.1:41705
+1616077132534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8J145Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077135744	Marionette	INFO	Listening on port 33071
+1616077135871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077142033	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616077213371	geckodriver	INFO	Listening on 127.0.0.1:51611
+1616077213375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUJbBlM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077217748	Marionette	INFO	Listening on port 38559
+1616077217812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077236946	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://js.iplsc.com/inpl.uanc/1.3.4/inpl.uanc.js, line 8: Error: Loading chunk 42 failed.
+(error: https://js.iplsc.com/inpl.uanc/1.3.4/42.inpl.uanc.js)
+1616077240634	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616077245146	Marionette	INFO	Stopped listening on port 38559
+1616077248091	geckodriver	INFO	Listening on 127.0.0.1:59501
+1616077248095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyN5Zn7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077250399	Marionette	INFO	Listening on port 39307
+1616077250417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077254174	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616077258123	Marionette	INFO	Stopped listening on port 39307
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077259107	geckodriver	INFO	Listening on 127.0.0.1:37749
+1616077259111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileItMrmY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077261847	Marionette	INFO	Listening on port 34175
+1616077261938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1616077306713	Marionette	INFO	Stopped listening on port 34175
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077308842	Marionette	INFO	Stopped listening on port 33071
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077309038	geckodriver	INFO	Listening on 127.0.0.1:48437
+1616077309041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerDqPa6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077314250	Marionette	INFO	Listening on port 46759
+1616077314285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077317463	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+1616077364341	geckodriver	INFO	Listening on 127.0.0.1:49181
+1616077364346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileADnXqA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077366854	Marionette	INFO	Listening on port 41905
+1616077366977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077374752	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616077382470	geckodriver	INFO	Listening on 127.0.0.1:59389
+1616077382509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKdQoJk"
+1616077390105	Marionette	INFO	Stopped listening on port 41905
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077396172	Marionette	INFO	Listening on port 33167
+1616077396256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077500653	geckodriver	INFO	Listening on 127.0.0.1:60457
+1616077500657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2L7pig"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077502926	Marionette	INFO	Listening on port 43857
+1616077502984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077508081	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616077511023	Marionette	INFO	Stopped listening on port 43857
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616077517492	Marionette	INFO	Stopped listening on port 46759
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077519484	Marionette	INFO	Stopped listening on port 33167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077520646	geckodriver	INFO	Listening on 127.0.0.1:38651
+1616077520651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEoLYIn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077522894	Marionette	INFO	Listening on port 32965
+1616077522973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077526150	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+1616077578545	Marionette	INFO	Stopped listening on port 32965
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077579635	geckodriver	INFO	Listening on 127.0.0.1:40323
+1616077579640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegmeOsB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077582236	Marionette	INFO	Listening on port 42791
+1616077582268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077590946	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616077594216	Marionette	INFO	Stopped listening on port 42791
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077594940	geckodriver	INFO	Listening on 127.0.0.1:51893
+1616077594944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet8AI7t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077597545	Marionette	INFO	Listening on port 36359
+1616077597569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077614962	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616077621468	geckodriver	INFO	Listening on 127.0.0.1:36075
+1616077621472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecdIoJl"
+1616077621831	Marionette	INFO	Stopped listening on port 36359
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077625601	Marionette	INFO	Listening on port 40739
+1616077625704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077642915	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://www.interia.pl/, line 674: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.interia.pl/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.interia.pl/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.interia.pl/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.interia.pl/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.interia.pl/, line 1: ReferenceError: buildAttribution is not defined
+1616077663128	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://cdn.ampproject.org/rtv/012101070013000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/14635060932861167605/downsize_200k_v1?sqp=4sqPyQSLAUKIAQgAEhQNzczMPhUAAABAHQAAAAAlAAAAABgAIgoNAACAPxUAAIA_Kk8IWhABHQAAtEIgASgBMAY4A0CAwtcvSABQAFgAYFpwAngAgAEAiAEAkAEAnQEAAIA_oAEAqAEAsAGAreIEuAH___________8BxQEtsp0-Mg8I2AQQugIYASABLQAAAD8&rs=AOga4qmaQVQ8tQXAYwV7dAAReYTXQxcuVg​​​
+JavaScript error: , line 0: uncaught exception: undefined
+1616077874433	geckodriver	INFO	Listening on 127.0.0.1:60659
+1616077874437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE7T73K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616077897246	Marionette	INFO	Listening on port 40905
+1616077897306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077915213	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616077954532	geckodriver	INFO	Listening on 127.0.0.1:53807
+1616077954538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaD3jOI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616077958086	Marionette	INFO	Listening on port 34153
+1616077958164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616077974996	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1616077984644	Marionette	INFO	Stopped listening on port 34153
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616078052557	Marionette	INFO	Stopped listening on port 40739
+1616078052565	Marionette	INFO	Stopped listening on port 40905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616078521155	geckodriver	INFO	Listening on 127.0.0.1:43357
+1616078521159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHeMZsi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616078523499	Marionette	INFO	Listening on port 42437
+1616078523582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616078537847	Marionette	INFO	Stopped listening on port 42437
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616078542650	geckodriver	INFO	Listening on 127.0.0.1:37779
+1616078542654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyTdnTo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616078546939	Marionette	INFO	Listening on port 40729
+1616078546980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616078563700	geckodriver	INFO	Listening on 127.0.0.1:53227
+1616078563704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLHkhtw"
+1616078566481	Marionette	INFO	Stopped listening on port 40729
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616078570113	Marionette	INFO	Listening on port 33073
+1616078570142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616078576373	Marionette	INFO	Stopped listening on port 33073
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616078576971	geckodriver	INFO	Listening on 127.0.0.1:35031
+1616078576973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuJeYto"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616078579576	Marionette	INFO	Listening on port 34587
+1616078579602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616078582270	Marionette	INFO	Stopped listening on port 34587
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616078583164	geckodriver	INFO	Listening on 127.0.0.1:46423
+1616078583167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecmgAlU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616078586666	Marionette	INFO	Listening on port 40207
+1616078586705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616078591675	Marionette	INFO	Stopped listening on port 40207
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616078623545	geckodriver	INFO	Listening on 127.0.0.1:45835
+1616078623549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekyY7vs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616078627370	Marionette	INFO	Listening on port 40893
+1616078627476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616078632660	Marionette	INFO	Stopped listening on port 40893
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616078633877	geckodriver	INFO	Listening on 127.0.0.1:36661
+1616078633879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVT0XhZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616078636334	Marionette	INFO	Listening on port 40343
+1616078636421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616078638995	Marionette	INFO	Stopped listening on port 40343
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616078643592	geckodriver	INFO	Listening on 127.0.0.1:43849
+1616078643595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePkbebD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616078651603	Marionette	INFO	Listening on port 46715
+1616078651630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616078656509	Marionette	INFO	Stopped listening on port 46715
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616078677675	geckodriver	INFO	Listening on 127.0.0.1:58395
+1616078677748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8OoneQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616078692542	Marionette	INFO	Listening on port 39699
+1616078692600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616078701601	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: moz-extension://f2b9f74f-8377-4402-bf8a-a4a4ff31b911/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616078834884	Marionette	INFO	Stopped listening on port 39699
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616081013734	geckodriver	INFO	Listening on 127.0.0.1:41293
+1616081013738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyYc7Qw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616081015867	Marionette	INFO	Listening on port 46547
+1616081015991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616081021228	Marionette	INFO	Stopped listening on port 46547
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T3W9FX&l=dataLayer, line 3411: TypeError: c.l is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616081021831	geckodriver	INFO	Listening on 127.0.0.1:43813
+1616081021835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYp93Ql"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616081024098	Marionette	INFO	Listening on port 41295
+1616081024162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616081026574	Marionette	INFO	Stopped listening on port 41295
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616081027393	geckodriver	INFO	Listening on 127.0.0.1:56335
+1616081027398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQLiWr8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616081029627	Marionette	INFO	Listening on port 41321
+1616081029728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mosaic02.ztat.net/nvg/z-header-fragment/12391d5204f7cb4a40a4-header.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://mosaic02.ztat.net/nvg/z-header-fragment/67e5da594e2f300801bf-0.js)
+1616081033780	Marionette	INFO	Stopped listening on port 41321
+JavaScript error: https://mosaic02.ztat.net/nvg/cognac/84ee33d4aa550b40bbb2-cognac.js, line 1: NS_ERROR_UNEXPECTED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616081050672	geckodriver	INFO	Listening on 127.0.0.1:51017
+1616081050676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile23Ej0X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616081053040	Marionette	INFO	Listening on port 38603
+1616081053095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616081056588	Marionette	INFO	Stopped listening on port 38603
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
