@@ -1,4 +1,4 @@
-# Zalando
+# Tvn24
 
 
 
@@ -7,33 +7,11 @@
 ```bash
 1. Otwarcie url.
 2. Maksymalizacja okna.
-3. Wejscie w nowosci.
-4. Wejscie w damskie.
-5. Wejscie w odziez.
-6. Zliczenie i wypisanie produktow na stonie.
-```
-
-
-## Test 2
-
-```bash
-1. Otwarcie url.
-2. Maksymalizacja okna.
-3. Wpisanie emailu w newssettler.
-4. Zajaczenie preferancji na radioboxie.
-5. Koliniecie w potwierdzenie do zapisania sie do NS
-```
-
-## Test 3
-
-
-```bash
-1. Otwarcie url.
-2. Maksymalizacja okna.
-3. Wejscie w nowosci.
-4. Kilkniecie w dropdown kolorow.
-5. Kilkniecie w kolor nr9 ( zielony ).
-6. Kilkniecie w save by zapisac wybranie filtorwanie.
+3. Wejscie w sport.
+4. Wejscie w tenis.
+5. Wejscie w wimbledon.
+6. Wejscie na strone 5.
+7. Wypisanie textu z pierwszego artykulu ze strony 5.
 ```
 
 # Interia
