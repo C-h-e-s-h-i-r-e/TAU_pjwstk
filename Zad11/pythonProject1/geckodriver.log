@@ -1,0 +1,45 @@
+1621878815108	geckodriver	INFO	Listening on 127.0.0.1:55209
+1621878816043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVnPJYO"
+1621878817705	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621878823464	Marionette	INFO	Listening on port 39789
+1621878823822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621878827969	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://tvn2.adocean.pl/files/js/ado.js, line 1: uncaught exception: Not supported!
+JavaScript error: https://tvn2.adocean.pl/files/js/ado.js, line 1: uncaught exception: Not supported!
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Feurosport.tvn24.pl, line 18: Error: Network error.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.13.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://tvn2.adocean.pl/files/js/ado.js, line 1: uncaught exception: Not supported!
+JavaScript error: https://tvn2.adocean.pl/files/js/ado.js, line 1: uncaught exception: Not supported!
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Feurosport.tvn24.pl, line 18: Error: Network error.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.13.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://tvn2.adocean.pl/files/js/ado.js, line 1: uncaught exception: Not supported!
+JavaScript error: https://tvn2.adocean.pl/files/js/ado.js, line 1: uncaught exception: Not supported!
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Feurosport.tvn24.pl, line 18: Error: Network error.
+JavaScript error: https://tvn2.adocean.pl/files/js/ado.js, line 1: uncaught exception: Not supported!
+JavaScript error: https://tvn2.adocean.pl/files/js/ado.js, line 1: uncaught exception: Not supported!
+1621878835176	Marionette	INFO	Stopped listening on port 39789
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621878835899	geckodriver	INFO	Listening on 127.0.0.1:35717
+1621878836903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8gJFAi"
+1621878837982	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621878839872	Marionette	INFO	Listening on port 37985
+1621878839921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621878842649	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1621878848416	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:69
+unregisterCommandsActor@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:2335:3
+onClosed@chrome://marionette/content/server.js:194:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1621878872388	Marionette	INFO	Stopped listening on port 37985
